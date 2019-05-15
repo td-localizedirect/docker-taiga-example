@@ -15,7 +15,7 @@ services:
       # - redis
     environment:
       # Hostname for your instance of Taiga. Required.
-      TAIGA_HOSTNAME: localhost
+      TAIGA_HOSTNAME: agitated-einstein-39be46.netlify.com
 
       # Database variables. Required.
       TAIGA_DB_HOST: postgres
